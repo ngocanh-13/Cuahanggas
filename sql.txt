@@ -88,7 +88,7 @@ Foreign key (mahdban)references tblhdban(mahdban),
 Foreign key (mahang)references tblhang(mahang)
 )
 
-
+insert into
 insert into tbltaikhoan values('ngocanh12','123456')
 insert into tblncc values('ncc1','Công ty gas VN','Hà N?i','0322 33 5567')
 insert into tblnhanvien values('nv1',N'Ánh',N'n?','03/02/1998','0990809',N'Hà N?i',N'Qu?n l?','4000')
